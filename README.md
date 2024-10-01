@@ -14,3 +14,5 @@ This scripts takes in the following inputs:
 ![Paint Reciept](https://github.com/IT-Delinquent/PaintCalculator/blob/master/PaintCalculatorReciept.png)
 
 As you can probably tell, it's not the most comprehensive calculator. However, it is probably the first "thing" I ever created in PowerShell and I wanted to come back and make it nicer. I'm going to leave it here just for the sake of sharing something 😊
+
+[mharwood.uk](https://mharwood.uk)
